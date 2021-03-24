@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d9bd97e0de7fbe0a468",
+    "revision": "00ee8577ce15c60d87d1",
     "url": "/css/index.bc64e18d.css"
   },
   {
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/enfiedtate.b66c38f1.png"
   },
   {
+    "revision": "fb0f4ccf9fc2da3f4fe866eeed7ec3c7",
+    "url": "/img/lorevoleo.fb0f4ccf.png"
+  },
+  {
     "revision": "83a66aae9cd371b4f86cf28954c9e59c",
     "url": "/img/mahl.83a66aae.png"
   },
@@ -60,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/qboenah.37b0dc94.png"
   },
   {
+    "revision": "ff769d5b00684bce1e42fc3b89edcd50",
+    "url": "/img/qcargosa.ff769d5b.png"
+  },
+  {
     "revision": "b946d32365f78bd36883cc23ef5477be",
     "url": "/img/qtal.b946d323.png"
   },
@@ -80,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/vos.4fd18a51.png"
   },
   {
-    "revision": "c76209f17376542fa81cc63a6f3c6e9f",
+    "revision": "bd07204209902810fbd276fb0013b32d",
     "url": "/index.html"
   },
   {
@@ -88,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.0158d7ac.js"
   },
   {
-    "revision": "6d9bd97e0de7fbe0a468",
-    "url": "/js/index.a37a52b0.js"
+    "revision": "00ee8577ce15c60d87d1",
+    "url": "/js/index.dc1ec41f.js"
   },
   {
     "revision": "6741298e763e0f58d051e9f164cbb186",
@@ -128,6 +136,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/media/enfiedtate.b0052daa.mp3"
   },
   {
+    "revision": "ed0d6f9350bf16f099a870d7b5f75f88",
+    "url": "/media/lorevoleo.ed0d6f93.mp3"
+  },
+  {
     "revision": "48c15e3d4afa22d6901b529ae036b043",
     "url": "/media/mahl.48c15e3d.mp3"
   },
@@ -150,6 +162,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f4d89c65bb1cc4baa25d1c414e9f9e02",
     "url": "/media/qboenah.f4d89c65.mp3"
+  },
+  {
+    "revision": "c12ce94cb2537182c13752a7db3a5bde",
+    "url": "/media/qcargosa.c12ce94c.mp3"
   },
   {
     "revision": "fe5d3b2e2d36be45530875af4b8def77",

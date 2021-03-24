@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.951bbf1bcd451a4de0de71615a2aa162.js"
+  "/precache-manifest.9e74511b4a17dd2e01ce3444f6ce61bf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tusa-pipis"});
